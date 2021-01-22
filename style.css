@@ -3,33 +3,40 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
 nav{
     text-align: right;
     height: 80px;
 }
+
 nav a{
     text-decoration: none;
     color: rgb(41, 38, 38);
     padding: 7px 15px;
 
 }
+
 nav a:hover{
     background-color: limegreen;
     border-radius: 5px;
     color: white;
     padding: 10px 20px;
 }
+
 .header-section{
     height: 600px;
 }
+
 .text-style{
     font-size: 50px;
     font-weight: 900;
     color: #363958;
 }
+
 .highlighter{
     color: #FF8367;
 }
+
 .half-width{
     float: left;
     width: 40%;
@@ -37,9 +44,11 @@ nav a:hover{
     margin-left: 5%;
     padding-left: 4%;
 }
+
 .half-width img{
     width: 100%;
 }
+
 .btn-style{
     text-decoration: none;
     background-image: linear-gradient(rgb(233, 101, 101),tomato);
@@ -48,15 +57,19 @@ nav a:hover{
     color: white;
     margin-top: 10px;
 }
+
 .about-section{
     height: 600px;
 }
+
 .text-center{
     text-align: center;
 }
+
 .latest-work{
     height: 600px;
 }
+
 .one-third-width{
     float: left;
     width: 25%;
@@ -65,20 +78,25 @@ nav a:hover{
     box-shadow: 5px 8px 80px grey;
     height: 350px;
 }
+
 .one-third-width img{
     width: 100%;
 }
+
 .img-sizing img{
     width: auto;
     height: 350px;
     margin-bottom: 25px;
 }
+
 .skill{
     height: 600px;
 }
+
 .background{
     margin: 150px 250px 0px 250px;
 }
+
 .background img{
     width: 100%;
     
